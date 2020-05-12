@@ -1,4 +1,4 @@
-##SETUP AND USE
+## SETUP AND USE
 
 1. This bot removes all posts from a single subreddit that are older than a customizable date.
 
