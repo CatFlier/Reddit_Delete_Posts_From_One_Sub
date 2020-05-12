@@ -1,8 +1,10 @@
+##SETUP AND USE
+
 1. This bot removes all posts from a single subreddit that are older than a customizable date.
 
 2. Both "delete_posts.py" and "botconfig.ini" must be in the same folder.
 
-3. If you don't have Python installed then you must [download](https://www.python.org/downloads/) it from the official Python website. Do not download Python via any other link.
+3. If you don't have Python installed then you must [download](https://www.python.org/downloads/) it from the official Python website and install it on your computer. Do not download Python via any other link!
 
 4. Install PRAW, the Python wrapper for the Reddit API. Basically it's as simple as typing "pip install praw" on the command line. Use [this link](https://pythonprogramming.net/introduction-python-reddit-api-wrapper-praw-tutorial/) for more detailed instructions.
 
